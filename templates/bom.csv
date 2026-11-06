@@ -1,0 +1,38 @@
+subsystem,part,spec,qty,vendor,part_number,unit_price_usd,ext_price_usd,status,notes
+frame,main rail tube,1.25 x 0.095 DOM round,40 ft,,,,,planned,"heavy-driver upsize from 1 x 0.083"
+frame,crossmember tube,1 x 0.083 DOM round,20 ft,,,,,planned,
+frame,gusset / bracket plate,3/16 A36 or 1018 laser cut,1 set,,,,,planned,"DXF files in cad/"
+engine,engine,Predator 420 (13 hp),1,Harbor Freight,,,,planned,
+drivetrain,torque converter,40 series 1 in bore,1,,,,,planned,"30 series only if 212cc"
+drivetrain,TC driver sprocket,10T #40/420,1,,,,,planned,
+drivetrain,axle sprocket,60T #40/420 split or hub-mount,1,,,,,planned,
+drivetrain,chain,#420 x 10 ft + master link,1,,,,,planned,
+drivetrain,chain tensioner,idler w/ spring,1,,,,,planned,
+axle,live axle,1.25 x 40 in keyed 1045,1,,,,,planned,
+axle,axle bearings,1.25 in 4-bolt flange,2,,,,,planned,
+axle,rear hubs,1.25 in 4 on 4 bolt pattern,2,,,,,planned,
+axle,sprocket hub,1.25 in,1,,,,,planned,
+axle,brake rotor hub,1.25 in,1,,,,,planned,
+axle,keystock + collars,1/4 key,1 set,,,,,planned,
+steering,spindles,3/4 kingpin 5/8 or 3/4 shaft L+R,1 pair,,,,,planned,
+steering,tie rods + rod ends,3/8-24 heims,2,,,,,planned,
+steering,steering shaft,5/8 or 3/4 rod,1,,,,,planned,
+steering,steering wheel + hub,,1,,,,,planned,
+steering,pitman arm,,1,,,,,planned,
+wheels,front wheels,5 in or 6 in w/ 5/8 bearings,2,,,,,planned,
+wheels,rear wheels,8 in 4-bolt,2,,,,,planned,
+wheels,front tires,,2,,,,,planned,"check load rating"
+wheels,rear tires,18-22 in OD,2,,,,,planned,"check load rating"
+brakes,hydraulic disc kit,master cyl + caliper + 7.1 in rotor,1,,,,,planned,
+brakes,brake line + fittings,,1,,,,,planned,
+brakes,brake pedal,,1,,,,,planned,
+controls,throttle pedal + cable,,1,,,,,planned,
+controls,kill switch + tether,,1,,,,,planned,
+seat,seat,XL/UTV style >=17 in wide,1,,,,,planned,
+seat,seat belt / harness,,1,,,,,planned,
+safety,chain guard,,1,,,,,planned,
+safety,belt guard,,1,,,,,planned,
+safety,exhaust heat shield,,1,,,,,planned,
+fuel,fuel tank / line / filter / shutoff,,1,,,,,planned,
+hardware,grade 8 bolts/nuts/washers assortment,,1,,,,,planned,
+finish,primer + paint or powder coat,,1,,,,,planned,

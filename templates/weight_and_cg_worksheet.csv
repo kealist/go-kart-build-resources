@@ -1,0 +1,12 @@
+item,weight_lb,x_in_from_front_axle,z_in_above_ground,notes
+frame,75,22,8,
+engine,70,36,10,
+torque converter + chain + sprockets,10,38,9,
+axle + bearings + hubs,20,44,10,
+rear wheels + tires,30,44,10,
+front wheels + tires + spindles,20,0,8,
+seat,12,26,8,
+steering,12,10,14,
+brakes,8,40,9,
+pedals/cables/tank/misc,12,8,8,
+driver,250,26,14,"seated CG roughly at navel height"
