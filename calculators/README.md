@@ -11,6 +11,7 @@ a ~450 lb all-up kart. Run any script with `--help` for all flags.
 | `frame_tube_check.py` | Bending stress, factor of safety and deflection for common round/square tube sizes under the driver's weight at 2-3 g shock load. |
 | `axle_check.py` | Combined bending + torsion on a 1 in vs 1.25 in keyed live axle with a keyway stress concentration. |
 | `chain_check.py` | Chain tension vs. strength for #35 / #40 / #41 / #420 chain at launch torque. |
+| `spring_rate.py` | Wheel rate, static sag, ride frequency and bottom-out g for a coilover swingarm or A-arm; solves the spring rate for a target sag. |
 
 Quick start:
 
@@ -20,6 +21,7 @@ python3 brake_sizing.py --weight 450 --mph 30
 python3 frame_tube_check.py --driver 250 --g 3 --span 26
 python3 axle_check.py --overhang 5
 python3 chain_check.py --chain 420
+python3 spring_rate.py --sprung-weight 230 --shocks 2 --motion-ratio 0.7 --target-sag 0.30
 ```
 
 These are hand calcs with stated assumptions, not FEA and not a substitute for a

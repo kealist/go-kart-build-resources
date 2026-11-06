@@ -36,7 +36,8 @@ engine choice, and gearing. Every section calls those changes out in a
 | [09-parts-sourcing](09-parts-sourcing/README.md) | Vendor directory and a priced sample BOM for a 420cc heavy-driver kart |
 | [10-safety](10-safety/README.md) | Kill switch, guards, belts, cage debate, torque specs, pre-ride checklist |
 | [11-plans-builds-community](11-plans-builds-community/README.md) | Plans, documented builds, channels, forums, books, racing rulebooks as design references |
-| [calculators](calculators/README.md) | Gear ratio / speed / grade, brake sizing, frame tube check, axle check, chain check |
+| [12-suspension](12-suspension/README.md) | Rigid vs swingarm vs full suspension, swingarm design, shocks and spring rates for a heavy driver |
+| [calculators](calculators/README.md) | Gear ratio / speed / grade, brake sizing, frame tube check, axle check, chain check, spring rate |
 | [templates](templates/) | Requirements sheet, BOM, weight and CG worksheet, drawing checklist, quote email, build log |
 | [cad](cad/README.md) | Where your own design files go |
 
@@ -53,11 +54,12 @@ engine choice, and gearing. Every section calls those changes out in a
 | Seat | 14-15 in kart bucket | 17-18 in+ seat, UTV or XL bucket | Standard kart seats are built for small racers |
 | Tires | whatever the kit has | check load rating, >= 150 lb per rear tire | Many 8 in kart tires are rated for far less than you think |
 | Sprocket ratio | 5:1 to 6:1 | 6:1 to 7:1 on a 212, ~6:1 on a 420 | Trade a few mph of top end for launch and hills |
+| Suspension springs | shocks as sold for kart kits | re-spring for ~250 lb/in per shock on a 2-shock swingarm | Kit shocks are sprung for 150 lb riders and sit at 40%+ sag; see `calculators/spring_rate.py` |
 
 ## Scope
 
-This is written around a single-seat, live-axle, small-4-stroke, no-suspension
-kart for yard and trail use, built in a home shop with a MIG welder and an angle
+This is written around a single-seat, live-axle, small-4-stroke kart for yard and
+trail use, rigid by default with suspension options in section 12, built in a home shop with a MIG welder and an angle
 grinder, outsourcing the parts that need a laser or a lathe. It is not a racing
 chassis guide. Nothing here makes a kart street legal.
 
